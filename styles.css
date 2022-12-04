@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Alef:wght@400;700&family=Cinzel:wght@400;700&family=Fenix&family=IM+Fell+French+Canon+SC&family=Outfit:wght@400;700&family=Plus+Jakarta+Sans:wght@400;700&family=Poppins:wght@400;700&family=Quicksand:wght@400;700&display=swap');
+
+img{
+    display: block;
+    padding: 10px;
+}
+
+#main{
+    background-color: #A4BE7B;
+    padding: 20px;
+}
+
+body{
+    margin: auto;
+    font-size: 1.6rem;
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+figure{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+#img-div{
+    background-color: #5F8D4E;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 12px 12px 5px #285430;
+    margin: 0;
+    padding: 20px;
+}
+#tribute-info{
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1,p{
+    text-align: center;
+}
+
+h1{
+    padding: 15px;
+}
+
+p{
+    font-size: 26px;
+}
+
+figcaption{
+    display: block;
+    padding: 10px;
+}
+
+#img-caption{
+    margin: 15px 0 5px 0;
+}
+
+#read-more{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.andika-tribute{
+    display: inline-block;
+    text-align: left;
+}
+
+.mtv{
+    padding: 25px;
+}
+
+li{
+    padding: 10px;
+}
